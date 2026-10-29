@@ -1,0 +1,6 @@
+{
+  "name": "Biro Pemuda/i GKII Baliem Tengah",
+  "description": "Website resmi, portofolio pelayanan, dan portal berita Biro Pemuda/i GKII Daerah Baliem Tengah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

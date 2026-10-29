@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif-brand: 'Cinzel', serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --color-navy-950: #070d1e;
+  --color-navy-900: #0b152d;
+  --color-navy-800: #122246;
+  --color-gold-500: #f59e0b;
+  --color-gold-600: #d97706;
+  --color-gold-700: #b45309;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-sans);
+}
+
+.font-brand {
+  font-family: var(--font-serif-brand);
+}
+
